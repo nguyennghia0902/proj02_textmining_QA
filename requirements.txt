@@ -1,0 +1,8 @@
+transformers
+numpy
+pandas
+tensorflow
+streamlit
+st-pages
+tf-keras
+datasets
