@@ -1,5 +1,5 @@
 import streamlit as st
-print(streamlit.version__)
+print(st.__version__)
 from st_pages import Page, show_pages
 
 st.set_page_config(page_title="Question Answering", page_icon="🏠")
